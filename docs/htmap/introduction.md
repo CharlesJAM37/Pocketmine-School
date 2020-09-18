@@ -12,7 +12,7 @@ A plugin is an external module which can be “plugged in” to your server to a
 
 1. You should know the PHP language.
 2. You should have a working Pocketmine server.
-3. You should have the DevTool plugin.
+3. You should have the DevTool plugin. or You can also use phar.scer.io website.
 
 Ok lets start.
 ___
